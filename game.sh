@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "welcome to the adventure Game!"
+echo "welcome to the Ultimate Adventure Game!"
 
 echo "Choose a location to explore: forest, castle, or cave."
 
